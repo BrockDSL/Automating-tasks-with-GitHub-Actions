@@ -1,4 +1,4 @@
-![Tool Logo](Image filename)
+![Tool Logo](Github_Part4.png)
 
 # Automating tasks with GitHub Actions
 In this workshop, attendees will learn about the Actions aspect of GitHub which allows you to write workflows that can spin up processing environments, run commands and special functions called “Actions” and then close those environments automatically.  This workshop is the fourth and final workshop in the GitHub Workshop Series offered by the Brock University Digital Scholarship Lab.
