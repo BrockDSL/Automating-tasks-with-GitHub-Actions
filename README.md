@@ -1,30 +1,31 @@
-Add in the workshop image here using the referential link at the bottom of the README file
-
 ![Tool Logo](Image filename)
 
+# Automating tasks with GitHub Actions
+In this workshop, attendees will learn about the Actions aspect of GitHub which allows you to write workflows that can spin up processing environments, run commands and special functions called “Actions” and then close those environments automatically.  This workshop is the fourth and final workshop in the GitHub Workshop Series offered by the Brock University Digital Scholarship Lab.
 
-# Title of Workshop
-Description of workshop including what you will learn and any tools that will be used in the process
+An understanding of using GitHub and basic experience with shell commands is recommended to get the most out of this workshop
 
-## Setup Instructions
-In preparation for this workshop, you will need...
+## Setup
+In preparation for this workshop, you will need the following: 
 
-Include:
- - All software that needs to be downloaded
- - Any accounts that will need to be made including links to the sign up pages for those accounts
- - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
-
-For all of the above, keep in mind that some of our attendees could be using machines on campus and therefore might have limitations in regards to downloading tools and files.
+ - A GitHub account which you can get by clicking the "Sign Up" button at the top right of [https://github.com/](https://github.com/).
+ - GitHub Desktop which can be acquired at [https://desktop.github.com/](https://desktop.github.com/).  Keep in mind that if you are not using a personal computer for this workshop, you may need to contact your IT department for permission to install new software.
 
 ## Helpful Materials
-Add in any helpful resources, code snippets, cheat sheets, or other relevant information here.
 
-## Follow Up Material
-Add in names of books, links to websites, or any other reccomendations for follow up materials that could represent the "Next Step" in an attendees learning after the workshop.  helpful links like the Programming Historians or W3Schools are good examples.
+[GitHub Actions Homepage](https://github.com/features/actions): GitHubs official page discussing what is possible with GitHub Actions.  
+[GitHub Actions Official Documentation](https://docs.github.com/en/actions): The official GitHub Actions documentation covering every aspect of what can be done along with descriptions of all of the terminology.  
+
+
+## Next Steps
+
+After completing this workshop, the recommended next steps are:
+
+ - Try out different workflows to see how they work.  The more you use them the easier it will be to implement more complex tasks when you need to!
+
 
  
- 
- 
+ ----
 
   
 **This workshop is brought to you by the Brock University Digital Scholarship Lab.  For a listing of our upcoming workshops go to [Experience BU](https://experiencebu.brocku.ca/organization/dsl) if you are a Brock affiliate or [Eventbrite page](https://www.eventbrite.ca/o/brock-university-digital-scholarship-lab-21661627350) for external attendees.**
