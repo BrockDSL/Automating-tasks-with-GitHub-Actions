@@ -5,6 +5,8 @@ In this workshop, attendees will learn about the Actions aspect of GitHub which 
 
 An understanding of using GitHub and basic experience with shell commands is recommended to get the most out of this workshop  
 
+*Estimated workshop length: 1.5 hours*
+
 ----
 ## Setup
 In preparation for this workshop, you will need the following: 
