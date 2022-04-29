@@ -26,7 +26,11 @@ In preparation for this workshop, you will need the following:
 After completing this workshop, the recommended next steps are:
 
  - Try out different workflows to see how they work.  The more you use them the easier it will be to implement more complex tasks when you need to!
-
+ - Check out the other workshops in our introduction to GitHub Series
+   - [Introduction to GitHub Repositories and GitHub Desktop](https://brockdsl.github.io/Introduction-to-GitHub-Repositories-and-GitHub-Desktop/)
+   - [Collaborating with Version Control on GitHub](https://brockdsl.github.io/Collaborating-with-Version-Control-on-GitHub/)
+   - [Making a Free Webpage with GitHub Pages](https://brockdsl.github.io/Making-a-Free-Webpage-with-GitHub-Pages/)
+   - [Automating tasks with GitHub Actions](https://brockdsl.github.io/Making-a-Free-Webpage-with-GitHub-Pages/)
   
  
  ----
