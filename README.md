@@ -21,6 +21,20 @@ In preparation for this workshop, you will need the following:
 [GitHub Actions Official Documentation](https://docs.github.com/en/actions): The official GitHub Actions documentation covering every aspect of what can be done along with descriptions of all of the terminology.  
 
 ----
+## Workshop Tasks
+
+1. In your repository, open the “Actions” tab and if you aren’t already on the new workflow page, click the “New workflow” button
+2. Browse the pre-built workflows to see what is available and then click “Configure” on the workflow called “Simple workflow”
+3. Explore the workflow editor, making sure to take a quick look at the “Documentation” tab
+4. Change the name of the workflow
+5. Change the name of the job from “build” to something different, keeping in mind that the only special characters you can use are dashes and underscores (no spaces!)
+6. Change one of the steps in the job.  This can be as simple as altering the words printed by the “echo” command or as complex as you like!
+7. Click the “Start commit” button, fill out the commit message, and commit your workflow
+8. Go to the “Actions” tab and see your workflow in action!  Depending on how quick you are it may already be done running, but you can still look at the processes it took
+9. Once you have done all that, type “WORKFLOW ACTIVATED!!!” in the chat to let me know you are ready to move on
+
+
+
 ## Next Steps
 
 After completing this workshop, the recommended next steps are:
