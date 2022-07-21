@@ -12,7 +12,7 @@ An understanding of using GitHub and basic experience with shell commands is rec
 In preparation for this workshop, you will need the following: 
 
  - A GitHub account which you can get by clicking the "Sign Up" button at the top right of [https://github.com/](https://github.com/).
- - GitHub Desktop which can be acquired at [https://desktop.github.com/](https://desktop.github.com/).  Keep in mind that if you are not using a personal computer for this workshop, you may need to contact your IT department for permission to install new software.  
+ - A GitHub repository to use for the workshop.  Even a new repository with just a README.md file will work.
   
 ----
 ## Helpful Materials
