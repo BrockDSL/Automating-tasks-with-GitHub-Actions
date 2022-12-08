@@ -1,7 +1,7 @@
 ![Tool Logo](Github_Part4.png)
 
 # Automating tasks with GitHub Actions
-In this workshop, attendees will learn about the Actions aspect of GitHub which allows you to write workflows that can spin up processing environments, run commands and special functions called “Actions” and then close those environments automatically.  This workshop is the fourth and final workshop in the GitHub Workshop Series offered by the Brock University Digital Scholarship Lab.
+In this workshop, attendees will learn about the Actions aspect of GitHub which allows you to write workflows that can spin up processing environments, run commands and special functions called “Actions” and then close those environments automatically.  This workshop is the fourth workshop in the GitHub Workshop Series offered by the Brock University Digital Scholarship Lab.
 
 An understanding of using GitHub and basic experience with shell commands is recommended to get the most out of this workshop.  
 
@@ -44,6 +44,7 @@ After completing this workshop, the recommended next steps are:
    - [Introduction to GitHub Repositories and GitHub Desktop](https://brockdsl.github.io/Introduction-to-GitHub-Repositories-and-GitHub-Desktop/)
    - [Collaborating with Version Control on GitHub](https://brockdsl.github.io/Collaborating-with-Version-Control-on-GitHub/)
    - [Making a Free Webpage with GitHub Pages](https://brockdsl.github.io/Making-a-Free-Webpage-with-GitHub-Pages/)
+   - [GitHub Tips for Programmers](https://brockdsl.github.io/GitHub-Tips-for-Programmers/)
   
  
  ----
